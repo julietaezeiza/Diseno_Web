@@ -1,0 +1,45 @@
+body{
+    width: 90%;
+    margin:0 auto;
+}
+.banner{
+    text-align: center;
+    height:70px;
+    padding:10%;
+    background-image:linear-gradient(blue,red);
+}
+.banner:hover{
+    background-image: linear-gradient(white,red,white);
+}
+.menu{
+    float:left;
+    width: 15%;
+    background-color: palevioletred;
+}
+.menu li{
+    background-color: ghostwhite;
+}
+.menu li:hover{
+    background-color: yellow;
+}
+   
+.contenido{
+    background-color: green;
+    float:left;
+    width:85%;
+}
+.contenido .principal{
+    float:left;
+    width:80%;
+}
+.contenido .secundario{
+    background-color: aquamarine;
+    float:left;
+    width:20%;
+}
+.footer{
+    background-color: black;
+    color: white;
+    clear:both;
+
+}

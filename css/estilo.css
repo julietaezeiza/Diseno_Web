@@ -1,0 +1,33 @@
+/*body{
+
+    background-color: rgba(23, 157, 175, 0.473); 
+    color: wheat;
+   }
+   div{
+    background-color: brown;   
+   }
+   h1{
+       color: black;
+       text-align:center;
+   }*/
+   .titulo1{
+   color:chartreuse;
+   }
+   .navbar{
+    background-color: white;
+    color: white;
+   }
+   .navegacion{
+    background-color: white;
+   }
+   #titulo2{
+       color: blueviolet;
+   }
+   .barralateral{
+    position: absolute;
+    background-color: antiquewhite;
+    color:blue;
+   }
+   .tabla{
+    position: absolute;
+   }

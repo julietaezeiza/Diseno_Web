@@ -1,0 +1,52 @@
+body{
+    background-color: rgba(235, 162, 192, 0.473); 
+    width: 90%;
+    margin:0 auto;
+}
+.titulo{
+    text-align: center;
+    color: rgb(90, 8, 26);
+    height:20px;
+    padding:10%;
+    background-image:linear-gradient(rgb(228, 66, 141),white)
+}
+.titulo img{
+    width: 150px;
+    height: 60px;
+}
+.titulo:hover{
+    background-image: linear-gradient(white,rgb(189, 84, 137),white);
+
+}
+.topnav{
+    background-color: rgb(189, 50, 96);
+    text-align: center;
+    color: rgb(241, 240, 236);
+    height: 20px;
+   padding: 70%;
+}
+#topnav a{ 
+float:left;
+display: block;
+background-color:palevioletred;
+text-align: center;
+padding: 14px 16px
+
+}
+#topnav:hover{
+    background-image: linear-gradient(white);
+}
+.contenido .principal{
+    text-align: center;
+    color:rgb(146, 6, 65);
+    float:left;
+    width:80%;
+    border:3px solid rgb(221, 43, 102);}
+.contenido .secundario{
+    text-align: center;
+    color:rgb(146, 6, 65);
+    float:right;
+    width:80%;
+    border: inset palevioletred ;
+   
+}
